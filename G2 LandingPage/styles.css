@@ -1,0 +1,13 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: 0.9;
+
+}
+.main-header{
+    background: url(/img/wallpapertip_esports-wallpaper_556203.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+.background-overlay{
+    background: rgba(236, 240, 241,.8);
+}
